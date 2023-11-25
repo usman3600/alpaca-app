@@ -1,0 +1,12 @@
+body{
+    background-color: whitesmoke;
+    min-width: 715px;
+    height: auto;
+    font-family: 'Courier New', Courier, monospace;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    scroll-margin-bottom: unset;
+}
+
+
